@@ -1,0 +1,6 @@
+{
+  "name": "DXO MUSIC PLAYER",
+  "description": "A premium dark music streaming app powered by YouTube, created by DIPANSHU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
